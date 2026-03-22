@@ -1,4 +1,4 @@
-# 🦞 OpenClaw Todo Skill
+# OpenClaw Todo Skill
 
 一个简单实用的待办事项管理技能，适合 OpenClaw AI 助手使用。
 
@@ -102,7 +102,7 @@ $ python3 todo.py --done 1
 
 ## 作者
 
-- Author: Claw 🦞
+- Author: Claw 
 - GitHub: @yy1142274323
 
 ## License
